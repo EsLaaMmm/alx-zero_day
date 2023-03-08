@@ -1,3 +1,5 @@
-[master 3dc314b] TASK0
- 1 file changed, 8 insertions(+)
- create mode 100644 0x03-git/README.md
+[master 4a1cdd3]  Starting to code today, so cool
+ 4 files changed, 3 insertions(+), 8 deletions(-)
+ create mode 100644 0x03-git/c/c_is_fun.c
+ create mode 100644 0x03-git/js/index.js
+ create mode 100644 0x03-git/js/main.js
