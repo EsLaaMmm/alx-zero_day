@@ -1,2 +1,1 @@
-My first readme
-is up date now
+it is updated
